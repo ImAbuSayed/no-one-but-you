@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/no-one-but-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for No One But You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-one-but-you/) |
+| **Get License** | [Request Licensing for No One But You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-one-but-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ba3157e85a7f5826aefbeed704c5c24e4737032d91df2e586712320f9d3f49ba` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

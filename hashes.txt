@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - No One But You
+
+This log tracks the cryptographic history and versioning for the song **No One But You** (no-one-but-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T16:42:37.662167 | `v1` | `ba3157e85a7f5826aefbeed704c5c24e4737032d91df2e586712320f9d3f49ba` | `0fdfc5f3b5da5a4a2e0e315619eca968f545ee267919a740c61810d23a616b19` | `2026-05-27_no-one-but-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
