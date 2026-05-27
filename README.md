@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/no-one-but-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: No One But You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-one-but-you/) |
+| **Get License** | [Official Music Licensing for No One But You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-one-but-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the whiskey burning on your lips
+> My hands are resting right upon your hips
+> We got the whole night waiting in the dark
+> I want to feel the beating of your heart
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
